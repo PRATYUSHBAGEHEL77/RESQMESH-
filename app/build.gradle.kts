@@ -35,4 +35,5 @@ dependencies {
     implementation("androidx.compose.foundation:foundation")
     debugImplementation("androidx.compose.ui:ui-tooling")
     implementation("com.google.android.gms:play-services-nearby:19.3.0")
+    implementation("org.osmdroid:osmdroid-android:6.1.20")
 }
